@@ -1,0 +1,6 @@
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\bin\Debug\Eristiq_test_1.exe.config
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\bin\Debug\Eristiq_test_1.exe
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\bin\Debug\Eristiq_test_1.pdb
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\obj\Debug\Eristiq_test_1.csprojResolveAssemblyReference.cache
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\obj\Debug\Eristiq_test_1.exe
+C:\C-Sharp-Course\Eristiq_test_1\Eristiq_test_1\obj\Debug\Eristiq_test_1.pdb
